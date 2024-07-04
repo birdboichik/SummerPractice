@@ -1,0 +1,25 @@
+.icharacterImage {
+    max-height: 500px;
+    width: 300px;
+    padding-top: 10px;
+}
+
+
+.icharacterContent {
+    text-align: center;
+    height: calc(100vh - 183.5px);
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.icharactersComics:hover {
+    cursor: pointer;
+    color: red;
+    text-decoration: underline;
+}
+.icharacterList {
+    text-align: left;
+}
+.icharacterDescription {
+    text-align: left;
+}
