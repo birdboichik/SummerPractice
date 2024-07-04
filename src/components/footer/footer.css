@@ -1,0 +1,33 @@
+.footerContent {
+    background-color: grey;
+    color: white;
+    width: 150%;
+}
+
+.footerLogo {
+    max-width: 100px;
+    max-height: 200px;
+    margin-left: 10px;
+}
+
+a {
+    all: unset;
+}
+
+.footerLink {
+    margin-left: 10px;
+}
+
+.footerLink:hover {
+    color: gold;
+    font-weight: bold;
+}
+
+.footerData {
+    margin-left: 10px;
+}
+
+.footer {
+    margin-top: calc(100vh - 925px);
+    bottom:0;
+}

@@ -1,0 +1,37 @@
+.headerContent {
+    display: flex;
+    padding: 20 0px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.headerLogo {
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.headerButts {
+    margin-top: 10px;
+    margin-right: 10px;
+    display: flex;
+    height: 100%;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:yellow;
+}
+
+.headerLink {
+    cursor: pointer;
+    margin: 7px;
+}
+
+.headerLink:hover {
+    text-decoration: underline;
+}
+
+.Header {
+    height: 60px;
+    background-color: red;
+}
